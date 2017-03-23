@@ -15,7 +15,7 @@ npm install -g selenium-webdriver
 ```
 I like it all the time, so I gave it the global install.
 
-Finally, start the server from the command-line and we're ready to run the tests
+Finally, start the server from the command-line and we're ready to run the tests.
 ```
 java -jar [the path & name of the selenium-stadalone.jar here]
 ```
